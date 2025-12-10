@@ -1,0 +1,16 @@
+[package]
+name = "behandling-flow"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "behandling-flow"
+path = "src/main.rs"
+
+[dependencies]
+tree-sitter = "0.22"
+tree-sitter-kotlin = "0.3"
+walkdir = "2.4"
+anyhow = "1.0"
+clap = { version = "4.5", features = ["derive"] }
+opener = "0.7"

@@ -1,3 +1,7 @@
+# DISCLAIMER
+
+HERE BE VIBES AND DRAGONS
+
 # Behandling Flow Analyzer
 
 A Rust CLI tool for analyzing Kotlin codebases to extract and visualize treatment (Behandling) flows.
